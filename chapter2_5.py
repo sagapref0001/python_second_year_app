@@ -1,5 +1,5 @@
 import PySimpleGUI as sg
-sg.theme("BrightColors")
+sg.theme("DarkTeal2")
 
 layout = [[sg.Input("フタバ", key="in")],
           [sg.Button("実行", key="btn")],
